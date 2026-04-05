@@ -16,7 +16,7 @@ extension Color {
     static let azulOscuroOscuro = Color(red: 0/255, green: 19/255, blue: 38/255)
     
     // Colores secundarios
-    static let dorado = Color(red: 212/255, green: 175/255, blue: 55/255)
+    static let dorado = Color(red: 213/255, green: 176/255, blue: 56/255)
     static let plateado = Color(red: 192/255, green: 192/255, blue: 192/255)
     static let azulRolex = Color(red: 0/255, green: 82/255, blue: 147/255)
     static let blanco = Color.white
