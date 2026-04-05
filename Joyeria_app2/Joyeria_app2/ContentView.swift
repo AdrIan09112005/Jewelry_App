@@ -67,16 +67,18 @@ struct ContentView: View {
         JoyaItem(
             nombre: "Submariner Date",
             coleccion: "Submariner",
-            precio: 9500.00,
+            precio: 9600.00,
             descripcion: "Reloj sumergible profesional con bisel giratorio",
             imagen: "watch_submariner",
             material: .plata,
             disponible: true
         ),
+
+        // Items adicionales para mostrar variedad
         JoyaItem(
             nombre: "Daytona Cosmograph",
             coleccion: "Daytona",
-            precio: 13500.00,
+            precio: 12500.00,
             descripcion: "Cronógrafo de precisión con esfera negra",
             imagen: "watch_daytona",
             material: .oro,
