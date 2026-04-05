@@ -79,7 +79,9 @@ struct ContentView: View {
             nombre: "Daytona Cosmograph",
             coleccion: "Daytona",
             precio: 12500.00,
-            descripcion: "Cronógrafo de precisión con esfera negra",
+            descripcion: "Cronógrafo de precisión con esfera negra.  reloj cronógrafo icónico diseñado específicamente para satisfacer
+            las necesidades de los pilotos de carreras de alta resistencia. 
+            Introducido originalmente en 1963, se ha convertido en un símbolo de lujo y precisión en el mundo del automovilismo",
             imagen: "watch_daytona",
             material: .oro,
             disponible: true
